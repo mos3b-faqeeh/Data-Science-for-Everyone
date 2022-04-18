@@ -6,6 +6,7 @@
 
 This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"
 
+
 <br>
 
 ## What is Data Science?
